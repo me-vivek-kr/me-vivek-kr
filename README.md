@@ -1,8 +1,63 @@
-- 👋 Hi, I’m @me-vivek-kr
-- 👀 I’m interested in Android & Web Development
-- 🌱 I’m currently learning 
+# Hi, I'm Vivek Kumar 👋
 
-<!---
-me-vivek-kr/me-vivek-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin)](https://www.linkedin.com/in/mevivek00/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome)]()
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/me-vivek-kr)
+
+---
+
+## 🚀 About Me
+
+I am a Software Developer passionate about creating impactful and scalable software. With a background in Mobile Development, I specialize in **Flutter**. My goal is to contribute to meaningful projects and continuously improve my technical and problem-solving skills.
+
+- 🔭 I’m currently working on Improving my skills.
+- 🌱 I’m currently learning AWS, Linux,etc.
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: [https://www.linkedin.com/in/mevivek00/]
+- ⚡ Fun fact: I spend almost 4 hours listening to songs every day.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+
+## 📧 Contact
+
+Feel free to reach out to me via [vivek979848@gmail.com](mailto:vivek979848@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mevivek00).
+
+---
+
